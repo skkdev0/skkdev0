@@ -1,0 +1,26 @@
+<resources>
+	<style name="AppTheme_skk" parent="@android:style/Theme.Material.Light.DarkActionBar">
+		<item name="android:colorPrimary">#8E24AA</item>
+		<item name="android:colorPrimaryDark">#6A1B9A</item>
+		<item name="android:colorAccent">#9C27B0</item>
+		<item name="android:colorControlHighlight">#81C784</item>
+		<item name="android:colorControlNormal">#9C27B0</item>
+	</style>
+	<style name="FullScreen_skk" parent="@android:style/Theme.Material.Light.NoActionBar.Fullscreen">
+		<item name="android:colorPrimary">#8E24AA</item>
+		<item name="android:colorPrimaryDark">#6A1B9A</item>
+		<item name="android:colorAccent">#9C27B0</item>
+		<item name="android:colorControlHighlight">#81C784</item>
+		<item name="android:colorControlNormal">#9C27B0</item>
+	</style>
+	<style name="NoActionBar_skk" parent="@android:style/Theme.Material.Light.NoActionBar">
+		<item name="android:colorPrimary">#8E24AA</item>
+		<item name="android:colorPrimaryDark">#6A1B9A</item>
+		<item name="android:colorAccent">#9C27B0</item>
+		<item name="android:colorControlHighlight">#81C784</item>
+		<item name="android:colorControlNormal">#9C27B0</item>
+	</style>
+	<style name="NoStatusBar_skk" parent="AppTheme">
+		<item name="android:windowFullscreen">true</item>
+	</style>
+</resources>
